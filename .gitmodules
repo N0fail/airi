@@ -1,6 +1,3 @@
 [submodule "servers/tts/F5-TTS"]
 	path = servers/tts/F5-TTS
-	url = git@github.com:SWivid/F5-TTS.git
-[submodule "servers/servers/tts/F5-TTS"]
-	path = servers/servers/tts/F5-TTS
 	url = git@github.com:N0fail/F5-TTS.git
